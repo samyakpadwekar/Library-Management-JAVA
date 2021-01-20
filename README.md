@@ -1,4 +1,4 @@
-# Library-Management-JAVA
+# Library-Management-System-JAVA
 This Library Management System has three type of users: o Owner o Librarian o User
 
 #Owner a.Owner owns library. b.He is interested into tracking assets and revenue. c.Owner Functionalities:
